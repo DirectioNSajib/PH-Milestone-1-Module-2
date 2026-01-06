@@ -1,0 +1,35 @@
+.hello
+{
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    border: 2px solid red;
+    padding: 30px;
+    display: block;
+}
+
+h1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: block;
+}
+
+.para
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: azure;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+body
+{
+    background-image: url(./pexels-thomas-balabaud-735585-17474740.jpg);
+    background-size: 700px;
+    background-repeat: repeat-x;
+}
