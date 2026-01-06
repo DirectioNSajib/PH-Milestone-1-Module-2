@@ -1,0 +1,164 @@
+.maindiv{
+
+    background-image: url(./pexels-oskelaq-35383622.jpg);
+    background-size: 100%;
+    width: 90;
+    height: 700px;
+    margin: 0px;
+}
+
+h3{
+    color: white;
+    font-family: serif;
+    font-size: 30px;
+}
+
+h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+}
+
+.secound
+{
+    padding-top: 190px;
+    padding-left: 200px;
+}
+
+button
+{
+    background-color: rgb(0, 170, 255);
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    border: none;
+    border-radius: 4%;
+    box-shadow: 2px 3px 10px rgb(3, 166, 215);
+}
+
+button:hover
+{
+    background-color: rgb(0, 170, 255);
+    color: white;
+    font-size: 24px;
+    padding: 20px;
+    border: none;
+    border-radius: 4%;
+    box-shadow: 2px 3px 10px rgb(3, 166, 215);
+    transition: 500ms;
+}
+.cartmain1
+{
+    width: 450px;
+    height: 200px;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 3px 4px 5px gray;
+    
+
+}
+
+.cartmain2
+{
+    width: 450px;
+    height: 200px;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 3px 4px 5px gray;
+
+}
+
+
+
+
+.cartmain3
+{
+    width: 450px;
+    height: 200px;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 3px 4px 5px gray;
+    visibility: inherit;
+
+}
+
+.cartmain4
+{
+    width: 450px;
+    height: 200px;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 3px 4px 5px gray;;
+
+}
+
+
+.parent{
+    display: flex;
+    justify-content: space-between;
+    gap: 110px;
+}
+.subcart
+{
+    width: 180px;
+    height: 180px;
+    margin-top: 10px;
+    margin-left: 15px;
+
+    
+}
+
+.cartheader
+{
+    color: black;
+    width: 120px;
+
+}
+
+.cartimg
+{
+    width: 190px;
+    height: 180px;
+
+}
+.endcart
+{
+    width: 170px;
+}
+
+.third
+{
+    display: flex;
+    justify-content: center;
+}
+.inline1{
+    display: block;
+}
+
+.inline-p
+{
+    display: inline;
+    font-weight: bolder;
+}
+
+.displayh1
+{
+    color: rgb(0, 0, 0);
+}
+
+.hidden1
+{
+    visibility: hidden;
+}
